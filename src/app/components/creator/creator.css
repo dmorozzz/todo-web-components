@@ -1,0 +1,19 @@
+input {
+  border: 2px solid black;
+  font-size: 1.2em;
+  padding: 5px 10px;
+  flex-grow: 1;
+}
+
+button {
+  border: 2px solid black;
+  margin-left: 3px;
+  background: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.creator {
+  width: 100%;
+  display: flex;
+}

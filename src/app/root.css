@@ -1,0 +1,17 @@
+main {
+  width: 100%;
+  display: flex;
+  max-width: 600px;
+  margin: 0 auto;
+  align-items: center;
+  flex-direction: column;
+}
+
+todo-list {
+  margin-top: 20px;
+  width: 100%;
+}
+
+todo-creator {
+  width: 100%;
+}
